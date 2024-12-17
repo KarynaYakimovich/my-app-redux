@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "First hero",
+      "description": "First hero in a list!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Unknown hero",
+      "description": "In the shade",
+      "element": "wind"
+    },
+    {
+      "id": "63b6c31b-4a47-4165-b2e4-19e352900855",
+      "name": "6e5ryery57",
+      "description": "uftufgjfj",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Wind",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Earth",
+      "className": "btn-secondary"
+    }
+  ]
+}
